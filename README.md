@@ -17,7 +17,7 @@
   </a>
   &nbsp;
   <a href="mailto:contato@code4delphi.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-contato%40code4delphi.com.br-yellowgreen?logo=maildotru&logoColor=yellowgreen">
+    <img src="https://img.shields.io/badge/>-contato%40code4delphi.com.br-yellowgreen?logo=maildotru&logoColor=yellowgreen">
   </a>
   &nbsp;
   <a href="https://go.hotmart.com/U81331747Y?dp=1" target="_blank">
