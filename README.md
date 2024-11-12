@@ -4,7 +4,6 @@
 - [**2024**](https://github.com/Code4Delphi/ACBr-Day/tree/master/2024) - IA Integrada ao Desenvolvimento e Automação de Software: Da Teoria à Prática
 
 <br/>
-<br/>
 
 # 📞 Contatos
 <p align="left">
@@ -20,7 +19,7 @@
     <img src="https://img.shields.io/badge/>-contato%40code4delphi.com.br-yellowgreen?logo=maildotru&logoColor=yellowgreen">
   </a>
   &nbsp;
-  <a href="https://go.hotmart.com/U81331747Y?dp=1" target="_blank">
+  <a href="https://code4delphi.com.br/blog/" target="_blank">
     <img src="https://img.shields.io/badge/Blog:-Code4Delphi-F00?logo=delphi">
   </a>
   &nbsp;
