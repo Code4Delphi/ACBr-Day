@@ -2,6 +2,7 @@
 **Conteúdos sobre minhas palestras no Dia do ACBr**
 
 - [**2024**](https://github.com/Code4Delphi/ACBr-Day/tree/master/2024) - IA Integrada ao Desenvolvimento e Automação de Software: Da Teoria à Prática
+- [**2025**](https://github.com/Code4Delphi/ACBr-Day/tree/master/2025) - IA na Prática com ERP e ACBr - LLM, RAG, MCP, Agents, Function Calling, Multimodal, TTS/STT, Toolsets...
 
 <br/>
 
